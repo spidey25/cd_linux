@@ -1,4 +1,4 @@
-Insert into test (id,data) values ("9","hello world");
+Insert into test (id,data) values ('8','hello world');
 
 --//@UNDO
 
